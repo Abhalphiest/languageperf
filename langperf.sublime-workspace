@@ -1,0 +1,784 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rado",
+				"radioButtons"
+			],
+			[
+				"parent",
+				"parentElement"
+			],
+			[
+				"bac",
+				"backgroundColor"
+			],
+			[
+				"colorPi",
+				"colorPickerID"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"equ",
+				"eqBarDefaults"
+			],
+			[
+				"trail",
+				"trailsEnabled"
+			],
+			[
+				"control",
+				"controlPointOffset"
+			],
+			[
+				"contro",
+				"controlPointOffset"
+			],
+			[
+				"bezier",
+				"bezierDefaults"
+			],
+			[
+				"visu",
+				"visualization"
+			],
+			[
+				"visual",
+				"visualizer"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"high",
+				"highFilter"
+			],
+			[
+				"mid",
+				"midFilter"
+			],
+			[
+				"bass",
+				"bassFilter"
+			],
+			[
+				"hex",
+				"hexresult"
+			],
+			[
+				"midgrou",
+				"midgroundImageData"
+			],
+			[
+				"trai",
+				"trailEffect"
+			],
+			[
+				"midgr",
+				"midgroundImageData"
+			],
+			[
+				"avg",
+				"avgfreq"
+			],
+			[
+				"partic",
+				"particleSystems"
+			],
+			[
+				"prev",
+				"prevAvg1"
+			],
+			[
+				"parti",
+				"particleSystems"
+			],
+			[
+				"parit",
+				"particleSystems"
+			],
+			[
+				"part",
+				"particleSystems"
+			],
+			[
+				"create",
+				"createParticles"
+			],
+			[
+				"maxParticle",
+				"maxParticlesHasChanged"
+			],
+			[
+				"color",
+				"colorsHasChanged"
+			],
+			[
+				"cha",
+				"changeNumParticles"
+			],
+			[
+				"wa",
+				"waveformLines"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"visua",
+				"visualizationAdvancedOptions"
+			],
+			[
+				"paren",
+				"parentElement"
+			],
+			[
+				"advancedo",
+				"advancedOptionInputs"
+			],
+			[
+				"vi",
+				"visualizationAdvancedOptions"
+			],
+			[
+				"visualzati",
+				"visualizationSettings"
+			],
+			[
+				"radio",
+				"radioButtons"
+			],
+			[
+				"volu",
+				"volumeControl"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"prese",
+				"presenceFilter"
+			],
+			[
+				"brillia",
+				"brillianceFilter"
+			],
+			[
+				"biqu",
+				"biquadFilterNode"
+			],
+			[
+				"audio",
+				"audioCtx"
+			],
+			[
+				"analy",
+				"analyserNode"
+			],
+			[
+				"expand",
+				"expandedSetting"
+			],
+			[
+				"to",
+				"toggleAdvancedSettings"
+			],
+			[
+				"visuali",
+				"visualizationSettings"
+			],
+			[
+				"option",
+				"option"
+			],
+			[
+				"ad",
+				"advancedOptions"
+			],
+			[
+				"expan",
+				"expandButton"
+			],
+			[
+				"getE",
+				"getElementsByTagName"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"play",
+				"playbackRate"
+			],
+			[
+				"vis",
+				"visualizationSettings"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"track",
+				"trackListHeight"
+			],
+			[
+				"trackList",
+				"trackListVisible"
+			],
+			[
+				"Volu",
+				"volumeControl"
+			],
+			[
+				"current",
+				"currentTrack"
+			],
+			[
+				"volume",
+				"volumeSlider"
+			],
+			[
+				"bg",
+				"playBGAudio"
+			],
+			[
+				"game",
+				"GAME_STATE"
+			],
+			[
+				"gameS",
+				"gameState"
+			],
+			[
+				"round",
+				"roundScore"
+			],
+			[
+				"CirCLE",
+				"CIRCLE_STATE"
+			],
+			[
+				"EXPL",
+				"EXPLODING"
+			],
+			[
+				"MAX",
+				"MAX_LIFETIME"
+			],
+			[
+				"IMP",
+				"IMPLODING"
+			],
+			[
+				"CIRCL",
+				"CIRCLE_STATE"
+			],
+			[
+				"circl",
+				"CIRCLE"
+			],
+			[
+				"EXPLO",
+				"EXPLOSION_SPEED"
+			],
+			[
+				"CIRCLE",
+				"CIRCLE_STATE"
+			],
+			[
+				"Game",
+				"GAME_STATE"
+			],
+			[
+				"CIR",
+				"CIRCLE_STATE"
+			],
+			[
+				"num",
+				"numCircles"
+			],
+			[
+				"draw",
+				"drawPauseScreen"
+			],
+			[
+				"circlehit",
+				"circleHitTopBottom"
+			],
+			[
+				"x",
+				"xSpeed"
+			],
+			[
+				"MA",
+				"MAX_SPEED"
+			],
+			[
+				"Sta",
+				"START_RADIUS"
+			],
+			[
+				"curren",
+				"currentTool"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"top",
+				"topCanvas"
+			],
+			[
+				"currne",
+				"currentTool"
+			],
+			[
+				"on",
+				"onchange"
+			],
+			[
+				"clear",
+				"clearButton"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"doMous",
+				"doMousemove"
+			],
+			[
+				"rootAddress",
+				"rootAddress"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "paper/programmingLanguagePerformance.tex",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "implementations/readme.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "data/readme.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/MATH421/Project/projectdir",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/MATH421/Project/projectdir/data",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/MATH421/Project/projectdir/implementations",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/MATH421/Project/projectdir/paper"
+	],
+	"file_history":
+	[
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Solus/.gitignore",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Solus/styles/main.css",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Solus/src/renderer.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Solus/src/main.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Solus/solus.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Solus/README.md",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/visualizer.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/src/utilities.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/README.md",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/.gitignore",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/src/visualizermanager.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/src/uimanager.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/css/ui.css",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/app/gameManager.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/src/audiomanager.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/src/workspace.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Boomshine-ICE-start/Boomshine-G/js/utilities.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Boomshine-ICE-start/Boomshine-G/js/emitter.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/emitter.js/__MACOSX/._emitter.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/app/sheep.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/css/generated.css",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/styles/ui.css",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/app/input.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/app/ui.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/views/index.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/app/display.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/app/client.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/app/audio.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/server.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/app/network.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME320/sheepherd/server_modules/log.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Boomshine-ICE-start/Boomshine-ICE-start/js/emitter.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/ui.css",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/CSCI262/nfaToDfa.py",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/CSCI262/testnfa",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/CSCI262/dfa.1.42",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Boomshine-ICE-start/Boomshine-ICE-start/js/sound.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Boomshine-ICE-start/Boomshine-ICE-start/js/keys.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Boomshine-ICE-start/Boomshine-ICE-start/js/utilities.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Boomshine-ICE-start/Boomshine-ICE-start/boomshine.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Boomshine-ICE-start/Boomshine-ICE-start/js/main.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Boomshine-ICE-start/Boomshine-ICE-start/js/loader.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Boomshine-ICE-start/Boomshine-B/js/loader.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/web audio-1 start/web audio-1 start/web-audio-visualizer.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/Car demo done/Car demo done/Module Pattern/Car.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/uimanager.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Audio Visualizer/audiomanager.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/simple-filter-demo/simple-filter-demo/js/utilities.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/globalCompositeOperationDemo/globalCompositeOperationDemo/example.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Exercises/globalCompositeOperationDemo/globalCompositeOperationDemo/example.js",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/Drawing App Start/Drawing App Start/canvas-paint.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/speed-circles-start-files (Extra Credit)/speed-circles-start-files/speed_circles_2.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/speed-circles-start-files (Extra Credit)/speed-circles-start-files/speed_circles_1.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/speed-circles-start-files (Extra Credit)/speed-circles-start-files/speed_circles.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/shape-viewer-app-start/shape-viewer-app-start.html",
+		"/C/Users/Margaret/Google Drive/School/Classwork/Fall2017/IGME330/try-it-1-start/try-it-1-start/try-it-1.html",
+		"/D/Wyvern/codingstandard.txt",
+		"/D/Wyvern/Engine/debug/console.h",
+		"/D/Wyvern/Engine/memory/memoryallocator.h",
+		"/D/Wyvern/Engine/memory/linearmemoryallocator.cpp",
+		"/D/Wyvern/Engine/memory/stackmemoryallocator.h",
+		"/D/Wyvern/Engine/memory/stackmemoryallocator.cpp",
+		"/D/Wyvern/Engine/memory/listmemoryallocator.h",
+		"/D/Wyvern/Engine/memory/listmemoryallocator.cpp",
+		"/D/Wyvern/Engine/memory/poolmemoryallocator.cpp",
+		"/D/Wyvern/Engine/memory/proxymemoryallocator.cpp",
+		"/D/Wyvern/Engine/memory/proxymemoryallocator.h",
+		"/D/Wyvern/Engine/memory/poolmemoryallocator.h",
+		"/D/Wyvern/Engine/memory/linearmemoryallocator.h",
+		"/D/Wyvern/Engine/utility/file.cpp",
+		"/D/Wyvern/Engine/testing/testing.h",
+		"/D/Wyvern/Engine/testing/testing.cpp",
+		"/D/Wyvern/Engine/testing.h",
+		"/D/Wyvern/Engine/Debug_Output/engine.ilk",
+		"/D/Wyvern/Engine/Debug_Intermediate/engine.tlog/link.write.1.tlog",
+		"/D/Wyvern/Engine/Debug_Intermediate/engine.tlog/link.read.1.tlog",
+		"/D/Wyvern/Engine/Debug_Intermediate/engine.tlog/link.command.1.tlog",
+		"/D/Wyvern/Engine/Debug_Intermediate/engine.tlog/CL.write.1.tlog",
+		"/D/Wyvern/Engine/Debug_Intermediate/engine.tlog/CL.read.1.tlog",
+		"/D/Wyvern/Engine/Debug_Intermediate/engine.tlog/CL.command.1.tlog",
+		"/D/Wyvern/Engine/Debug_Intermediate/Engine.log",
+		"/D/Wyvern/Engine/Engine.vcxproj.filters",
+		"/D/Wyvern/Engine/Engine.vcxproj",
+		"/D/Wyvern/Engine/memory/allocator.cpp"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			";\n",
+			"header",
+			"advanced",
+			"particleColor",
+			"HEAD",
+			"reset",
+			"resetButton",
+			"track",
+			"initialized",
+			"concat",
+			"from",
+			"options",
+			"dynamic",
+			"Preview",
+			"fillEllipse",
+			"console",
+			"system",
+			"optionHeader",
+			"visualization",
+			"consol",
+			"Emitter",
+			"d_",
+			"playBG",
+			"this.stopBG",
+			"this.bgAud",
+			"playEffec",
+			"playEff",
+			"debugger",
+			"clear",
+			"ProxyAllocator",
+			"P",
+			"ProxyAllocator",
+			"u8",
+			"PoolAllocator",
+			"FreeListAllocator",
+			"StackAllocator",
+			"Allocator"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fillRoundedRect",
+			"particleSystems[i]",
+			"particlesystem",
+			"ProxyMemoryAllocator",
+			"uint",
+			"PoolMemoryAllocator",
+			"ListMemoryAllocator",
+			"StackMemoryAllocator",
+			"MemoryAllocator"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "paper/programmingLanguagePerformance.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "implementations/readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "data/readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "langperf.sublime-project",
+	"replace":
+	{
+		"height": 55.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
