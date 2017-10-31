@@ -21,27 +21,28 @@ Concurrent vs Sequential Languages
 
 LANGUAGES
 
-Prolog - Declarative
-Wolfram Language - Declarative, Impure Functional, Array Structured
-Haskell - Pure Functional
-Lisp - Impure Functional, List Structured
-Ruby - Impure Functional, Imperative
-R - Impure Functional, List Structured
+Ada
+Bash - Scripting
+BASIC
 C - Imperative, Procedural
+C# - Imperative, Procedural
 C++ - Imperative, Procedural
+FORTRAN
+Haskell - Pure Functional
+Java - Imperative, Procedural
+Javascript
+Lisp - Impure Functional, List Structured
 Lua - Imperative
 MATLAB - Imperative, Array Structured
-Python - Imperative, Procedural
-Rust - Imperative, Procedural
-C# - Imperative, Procedural
-Java - Imperative, Procedural
-Perl - Procedural
-Javascript
 Pascal
-Bash - Scripting
-FORTRAN
+Perl - Procedural
 PHP
-Ada
+Prolog - Declarative, Logic
+Python - Imperative, Procedural
+R - Impure Functional, List Structured
+Ruby - Impure Functional, Imperative
+Rust - Imperative, Procedural
+Wolfram Language - Declarative, Impure Functional, Array Structured
 
 BENCHMARK TESTS
 
